@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B35B605B-490F-5C31-1FFF-A46BAE61D27B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/coinRotate.cs">
+    <Files>
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Editor/UnityARBuildPostprocessor.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scenes/script/GameController.cs" Line="44" Column="6" />
+      <File FileName="Assets/Scenes/script/PlayerController.cs" Line="33" Column="22" />
+      <File FileName="Assets/Scenes/script/Player.cs" Line="15" Column="20" />
+      <File FileName="Assets/coinRotate.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
